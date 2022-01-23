@@ -6,12 +6,6 @@ Devour was inspired by
 and is a successor to
 [devour.sh](https://github.com/salman-abedin/devour.sh)
 
-![](https://gitlab.com/salman-abedin/assets/-/raw/master/devour.gif)
-
-# Demonstration done by [DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg)
-
-[![](https://gitlab.com/salman-abedin/assets/-/raw/master/devour-dt.png)](https://www.youtube.com/watch?v=mBNLzHcUtTo&t=5m22s)
-
 ## Dependencies
 
 - Xlib (client-side header files)
@@ -113,18 +107,3 @@ sudo make uninstall
 
 ---
 
-## Shameful Plug
-
-| Name                                                    | Description                        |
-| ------------------------------------------------------- | ---------------------------------- |
-| [faint](https://github.com/salman-abedin/faint)         | Extensible TUI fuzzy file explorer |
-| [bolt](https://github.com/salman-abedin/bolt)           | The launcher wrapper               |
-| [uniblocks](https://github.com/salman-abedin/uniblocks) | The status bar wrapper             |
-| [tide](https://github.com/salman-abedin/tide)           | Minimal Transmission CLI client    |
-| [puri](https://github.com/salman-abedin/puri)           | Minimal URL launcher               |
-| [Magpie](https://github.com/salman-abedin/magpie)       | The dotfiles                       |
-| [Alfred](https://github.com/salman-abedin/alfred)       | The scripts                        |
-
-## Contact
-
-SalmanAbedin@disroot.org
